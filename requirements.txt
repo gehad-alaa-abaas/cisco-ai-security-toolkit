@@ -1,0 +1,11 @@
+
+# Runtime
+python==3.12.*
+# Core
+pyyaml>=6.0
+
+# Cisco AI Defense ecosystem
+cisco-ai-defense-sdk
+defenseclaw
+skill-scanner
+a2a-scanner
